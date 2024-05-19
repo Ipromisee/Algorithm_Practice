@@ -14,3 +14,4 @@
 
 - [多重背包问题II](https://www.acwing.com/problem/content/description/5/)
 
+- [分组背包问题](https://www.acwing.com/problem/content/9/)
