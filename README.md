@@ -14,3 +14,4 @@
 
 - [多重背包问题II](https://www.acwing.com/problem/content/description/5/)
 
+- [数字三角形](https://www.acwing.com/problem/content/description/900/)
