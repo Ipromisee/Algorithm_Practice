@@ -25,3 +25,5 @@
 - [最长公共子序列](https://www.acwing.com/activity/content/problem/content/1005/)
 
 - [最短编辑距离](https://www.acwing.com/activity/content/problem/content/1094/)
+
+- [分组背包问题](https://www.acwing.com/problem/content/9/)
