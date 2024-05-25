@@ -29,3 +29,9 @@
 - [分组背包问题](https://www.acwing.com/problem/content/9/)
 
 - [编辑距离](https://www.acwing.com/activity/content/problem/content/1006/)
+
+### 区间dp
+
+- [石子合并](https://www.acwing.com/problem/content/description/284/)
+
+## LeetCode hot100
